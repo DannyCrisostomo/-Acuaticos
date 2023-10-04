@@ -1,0 +1,184 @@
+@media screen and (min-width: 1000px) and (max-width: 2000px){
+    .hamburguesa{
+        display: none;
+    }
+    .productos h2 {
+        margin-bottom: 90px;
+        font-size: 3em;
+    }
+}
+@media screen and (min-width: 768px) and (max-width: 1000px){
+    .productos h2 {
+        margin-top: 20px;
+        margin-bottom: 100px;
+        font-size: 3em;
+    }
+    .hamburguesa{
+        display: none;
+    }
+    .logo {
+        font-weight: 900;
+        font-size: 20px;
+    }
+    .navbar ul {
+        display: flex;
+        justify-content: flex-end;
+    }
+    .navbar ul a {
+        color: rgb(97, 97, 97);
+        font-weight: 400;
+        font-size: 15px;
+    }
+    .cart {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 90px 30px;
+    }
+    .articulo {
+        width: 30%;
+    }
+    .articulo p {
+        font-size: 1.4em;
+    }
+    .imagen {
+        max-width: 815px;
+        width: 80%;
+    }
+    .imagen img {
+        width: 100%;
+    }
+    button {
+        font-size: 13px;
+    }
+}
+
+@media screen and (min-width: 501px) and (max-width: 767px){
+    .logo {
+        font-weight: 900;
+        font-size: 21px;
+    }
+    .hamburguesa{
+        width: 35px;
+    }
+    .navbar{
+        display: none;
+    }
+    .contenedor{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    } 
+    .entrada{
+        display: flex;
+        flex-direction: column;
+    }
+    .articulo {
+        width: 100%;
+        align-items: center;
+    }
+    .articulo h1 {
+        font-size: 3.1em;
+        margin: 0.67em 0;
+        text-align: center;
+    }
+    .articulo p {
+        font-size: 1.6em;
+        text-align: center;
+    }
+    .articulo button {
+        width: 39%;
+        padding: 10px;
+        font-size: 15px;
+    }
+    .imagen {
+        max-width: 745px;
+        display: flex;
+        justify-content: center;
+    }
+    img {
+        width: 83%;
+    }
+    .productos h2 {
+        margin-bottom: 90px;
+        font-size: 2.5em;
+        text-align: center;
+    }
+    .cart {
+        display: flex;
+        gap: 20px;
+        flex-direction: column;
+    }
+    .plato{
+        margin-bottom: 80px;
+        gap: 10px;
+        width: 93%;
+    }
+    .plato img {
+        margin-top: -73px;
+    }
+}
+@media screen and (max-width:500px){
+    .logo {
+        font-weight: 900;
+        font-size: 21px;
+    }
+    .hamburguesa{
+        width: 35px;
+    }
+    .navbar{
+        display: none;
+    }
+    .contenedor{
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+    } 
+    .entrada{
+        display: flex;
+        flex-direction: column;
+    }
+    .articulo {
+        width: 100%;
+        align-items: center;
+    }
+    .articulo h1 {
+        font-size: 3.1em;
+        margin: 0.67em 0;
+        text-align: center;
+    }
+    .articulo p {
+        font-size: 1.6em;
+        text-align: center;
+    }
+    .articulo button {
+        width: 39%;
+        padding: 10px;
+        font-size: 15px;
+    }
+    .imagen {
+        max-width: 745px;
+        display: flex;
+        justify-content: center;
+    }
+    img {
+        width: 83%;
+    }
+    .productos h2 {
+        margin-bottom: 90px;
+        font-size: 2.5em;
+        text-align: center;
+    }
+    .cart {
+        display: flex;
+        gap: 20px;
+        flex-direction: column;
+    }
+    .plato{
+        margin-bottom: 80px;
+        gap: 10px;
+        width: 93%;
+    }
+    .plato img {
+        margin-top: -73px;
+    }
+}
