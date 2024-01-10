@@ -1,9 +1,11 @@
 # SPEEDBUR Sitio Web
-
-![Logo de SPEEDBUR](./img/design.png)
-
 Bienvenido al repositorio del sitio web de SPEEDBUR. Este repositorio contiene el código HTML y CSS para el sitio web del restaurante SPEEDBUR.
+## Vista-Previa 🌐
 
+Puedes acceder a una vista previa en vivo del prototipo [aquí](https://sparkling-selkie-fe7376.netlify.app/).
+
+
+![php](https://github.com/DannyCrisostomo/SPEEDBUR/blob/master/SPEEDBUR.png)
 ## Tabla de Contenidos
 
 - [Acerca de](#acerca-de)
@@ -44,9 +46,3 @@ SPEEDBUR es un restaurante ficticio con un sitio web moderno y receptivo diseña
 
 ¡Gracias por visitar el repositorio del sitio web de SPEEDBUR! Si tienes alguna pregunta o comentario, no dudes en ponerte en contacto. ¡Disfruta explorando el sitio web!
 
-## Vista-Previa 🌐
-
-Puedes acceder a una vista previa en vivo del prototipo [aquí](https://sparkling-selkie-fe7376.netlify.app/).
-
-
-![php](https://github.com/DannyCrisostomo/SPEEDBUR/blob/master/SPEEDBUR.png)
