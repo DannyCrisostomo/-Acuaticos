@@ -45,5 +45,9 @@ SPEEDBUR es un restaurante ficticio con un sitio web moderno y receptivo diseña
 
 ¡Gracias por visitar el repositorio del sitio web de SPEEDBUR! Si tienes alguna pregunta o comentario, no dudes en ponerte en contacto. ¡Disfruta explorando el sitio web!
 
-## Vista-Previo
+## Vista-Previa 🌐
+
+Puedes acceder a una vista previa en vivo del prototipo [aquí](https://sparkling-selkie-fe7376.netlify.app/).
+
+
 ![php](https://github.com/DannyCrisostomo/SPEEDBUR/blob/master/SPEEDBUR.png)
