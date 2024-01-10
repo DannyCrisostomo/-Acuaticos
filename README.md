@@ -10,7 +10,7 @@ Bienvenido al repositorio del sitio web de SPEEDBUR. Este repositorio contiene e
 - [Funcionalidades](#funcionalidades)
 - [Cómo Utilizar](#cómo-utilizar)
 - [Contribuciones](#contribuciones)
-- [Vista-Previo](#Vista-Previo)
+- [Vista-Previo](#Vista-Previa)
 
 ## Acerca de
 
